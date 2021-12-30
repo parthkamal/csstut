@@ -1,0 +1,2 @@
+IMPORTANT TOPICS
+inline,external,internal css,background,display,float,box-sizing,border,pseudo class elements,states in css,aign items,justifycontent,media queries etc.
